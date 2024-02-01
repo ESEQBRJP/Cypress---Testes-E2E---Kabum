@@ -1,6 +1,6 @@
 ## Teste E2E com cypress
 
-### Considerações:
+### Introdução:
 
 Foi utilizado o design patterns POM demonstrando a possibilidade de criar projetos escalaveis, onde há uma grande quantia de testes para serem realizados, evitando assim grandes retrabalhos. E também foi criado comando personalizável em commands.js para mostrar que é possível mesclar este design com os beneficios oferecidos pelo cypress. 
 
