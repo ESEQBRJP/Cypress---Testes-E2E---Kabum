@@ -18,5 +18,4 @@ class produtoAction extends produtoStatic {
     }
 
 };
-
 export {produtoAction, produtoStatic};
