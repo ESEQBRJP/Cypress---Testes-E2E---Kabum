@@ -15,7 +15,6 @@ class produtoAction extends produtoStatic {
         cy.get(this.campoCalcularFreteLocator, {timeout: 15000})
             .clear()
             .type(cep)
-            .click()
     }
 
 };
